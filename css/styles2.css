@@ -1,0 +1,89 @@
+header {
+  height: auto;
+}
+h1 {
+  color: #ffffff;
+  font-size: 24px;
+}
+h2 {
+  font-size: 32px;
+  font-style: helvetica;
+}
+h3 {
+  color: #AAAAAA;
+  font-size: 14px;
+  font-style: bold;
+}
+h4 {
+  font-size: 16px;
+  font-style: bold;
+  }
+h5{
+  font-size: 12px;
+  font-style: bold;
+}
+footer {
+  background-color: black;
+  padding-top:30px;
+}
+.letra-roja{
+  color: red;
+}
+.letra-blanca {
+  color: #ffffff;
+  font-size: 14px;
+}
+.menu-height {
+  height: 100px;
+}
+.menu-link {
+  color: grey;
+  margin-top: 20px;
+}
+.menu-link:hover {
+  color: red;
+}
+.img {
+  width: 100%;
+  filter: grayscale(100%);
+}
+.carrusel-container {
+  height: 100%;
+}
+.red-container{
+  height: 300px;
+  background-color: red;
+  text-align: center;
+  padding-top: 40px
+}
+.circle-icon {
+  padding:30px;
+  border: 6px solid #fff;
+  border-radius: 50%;
+}
+.glyphicon-glass {
+  font-size: 20px;
+  color: #ffffff;
+}
+.glyphicon-star {
+  font-size: 20px;
+  color: #ffffff;
+}
+.glyphicon-heart {
+  font-size: 20px;
+  color: #ffffff;
+}
+.container-fluid {
+  width: 85%;
+  height: auto;
+  padding-bottom: 30px;
+}
+.red-line {
+  height: 10px;
+  background-color: red;
+}
+.linea-puntos{
+  color: #aaaaaa;
+  font-size: 14px;
+  border-bottom: 1px dotted #aaaaaa;
+}
